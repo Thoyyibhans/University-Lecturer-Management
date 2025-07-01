@@ -166,14 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide React](https://lucide.dev/) for the beautiful icons
 - [Vite](https://vitejs.dev/) for the fast build tool
 
-## 📞 Support
-
-If you have any questions or need help, please:
-
-1. Check the [Issues](https://github.com/Thoyyibhans/University-Lecturer-Management) page
-2. Create a new issue if your problem isn't already reported
-3. Provide detailed information about your environment and the issue
-
 ## 🔄 Changelog
 
 ### v1.0.0 (2025-01-XX)
@@ -185,4 +177,4 @@ If you have any questions or need help, please:
 
 ---
 
-**Live Demo**: [https://brilliant-belekoy-e2fcb3.netlify.app/](https://brilliant-belekoy-e2fcb3.netlify.app/)
+**Live Demo**: [https://lecturers.netlify.app//](https://lecturers.netlify.app/)
