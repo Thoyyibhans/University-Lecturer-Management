@@ -2,7 +2,7 @@
 
 A modern, responsive web application for managing university lecturer data with offline capabilities and PWA support.
 
-![Lecturer Management System](https://images.pexels.com/photos/306198/pexels-photo-306198.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![Lecturer Management System](https://github.com/Thoyyibhans/University-Lecturer-Management/blob/main/lecturer1.png?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
 ## 🚀 Features
 
